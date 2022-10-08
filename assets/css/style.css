@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: Arial, sans-serif;
   color: #444444;
 }
 
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 /*--------------------------------------------------------------
